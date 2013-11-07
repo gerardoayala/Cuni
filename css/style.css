@@ -1,0 +1,15 @@
+.footer{
+	text-align: center;
+}
+.add-table{
+	display: none;
+}
+.glyphicon{
+	cursor: pointer;
+}
+.ticket{
+	cursor: pointer;
+}
+tr.success a{
+	color: #FFFFFF;
+}
